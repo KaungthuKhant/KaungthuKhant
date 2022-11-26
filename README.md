@@ -1,6 +1,6 @@
 :wave: *Hello World*
 
-My name is Kaung Thu Khant and I am a junior majoring in Computer Science and Cybersecurity with Engineering Physics minor in college
+My name is Kaung Thu Khant and I am a senior in college double majoring in Computer Science and Cybersecurity.
 
 
 :technologist: **Work Experience**
